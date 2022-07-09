@@ -1,6 +1,6 @@
 # Text 2 Image
 | Name  | pdf  |   github |
-| :---: |:---: |:---: |
+| :--- |:--- |:---: |
 | DALLE  |[Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092) |  [github](https://github.com/lucidrains/DALLE-pytorch) |
 | CogView |[CogView: Mastering Text-to-Image Generation via Transformers](https://arxiv.org/pdf/2105.13290.pdf) |[github](https://github.com/THUDM/CogView) |
 | N\"UWA |[NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion](https://arxiv.org/pdf/2111.12417.pdf) |[github](https://github.com/lucidrains/nuwa-pytorch) |
