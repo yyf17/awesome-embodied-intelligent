@@ -1,4 +1,4 @@
-# Text 2 Image
+# [Text 2 Image](https://www.bilibili.com/video/BV17r4y1u77B?spm_id_from=333.999.0.0&vd_source=748e2ffada3badcc315a8de5269e2580)
 | Name  | pdf  |   github |
 | :--- |:--- |:---: |
 | DALLE  |[Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092) |  [github](https://github.com/lucidrains/DALLE-pytorch) |
