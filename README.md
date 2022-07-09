@@ -1,12 +1,16 @@
 # Text 2 Image
 | Name  | pdf  |   github |
 | :---: |:---: |:---: |
-| DALLE |:---: |:---: |
+|| DALLE |[]() |[github]() |
 | CogView |[CogView: Mastering Text-to-Image Generation via Transformers](https://arxiv.org/pdf/2105.13290.pdf) |[github](https://github.com/THUDM/CogView) |
 | N\"UWA |[NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion](https://arxiv.org/pdf/2111.12417.pdf) |[github](https://github.com/lucidrains/nuwa-pytorch) |
-| :---: |:---: |:---: |
-| :---: |:---: |:---: |
+| GLIDE |[GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/pdf/2112.10741v3.pdf) | [github](https://github.com/openai/glide-text2im) |
 | DALL·E 2 |[Hierarchical Text-Conditional Image Generation with CLIP Latents](https://cdn.openai.com/papers/dall-e-2.pdf) |:---: |
+| CogView2 |[CogView: Mastering Text-to-Image Generation via Transformers](https://arxiv.org/pdf/2105.13290.pdf) |[github](https://github.com/THUDM/CogView2)|
+| :---: |[]() |[github]() |
+| :---: |[]() |[github]() |
+| :---: |[]() |[github]() |
+
 
 
 # [dalle-mini](https://huggingface.co/spaces/dalle-mini/dalle-mini)
