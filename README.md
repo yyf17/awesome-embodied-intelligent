@@ -1,3 +1,18 @@
+# Text 2 Image
+| Name  | pdf  |   github |
+| :---: |:---: |:---: |
+| DALLE |:---: |:---: |
+| CogView |[CogView: Mastering Text-to-Image Generation via Transformers](https://arxiv.org/pdf/2105.13290.pdf) |[github](https://github.com/THUDM/CogView) |
+| N\"UWA |[NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion](https://arxiv.org/pdf/2111.12417.pdf) |[github](https://github.com/lucidrains/nuwa-pytorch) |
+| :---: |:---: |:---: |
+| :---: |:---: |:---: |
+| DALL·E 2 |[Hierarchical Text-Conditional Image Generation with CLIP Latents](https://cdn.openai.com/papers/dall-e-2.pdf) |:---: |
+
+
+# [dalle-mini](https://huggingface.co/spaces/dalle-mini/dalle-mini)
+
+# [李沐读论文](https://github.com/mli/paper-reading)
+
 # awesome-embodied-intelligent
 awesome-embodied-intelligent related
 
