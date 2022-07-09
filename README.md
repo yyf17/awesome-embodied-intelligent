@@ -1,11 +1,11 @@
 # Text 2 Image
 | Name  | pdf  |   github |
 | :---: |:---: |:---: |
-| DALLE  |[]() |  [github]() |
+| DALLE  |[Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092) |  [github](https://github.com/lucidrains/DALLE-pytorch) |
 | CogView |[CogView: Mastering Text-to-Image Generation via Transformers](https://arxiv.org/pdf/2105.13290.pdf) |[github](https://github.com/THUDM/CogView) |
 | N\"UWA |[NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion](https://arxiv.org/pdf/2111.12417.pdf) |[github](https://github.com/lucidrains/nuwa-pytorch) |
 | GLIDE |[GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/pdf/2112.10741v3.pdf) | [github](https://github.com/openai/glide-text2im) |
-|   |[]() |  [github]() |
+| ERNIE-ViLG  |[ERNIE-ViLG: Unified Generative Pre-training for Bidirectional Vision-Language Generation](https://arxiv.org/pdf/2112.15283.pdf) |  [github](https://github.com/PaddlePaddle/FleetX) |
 | DALL·E 2 |[Hierarchical Text-Conditional Image Generation with CLIP Latents](https://cdn.openai.com/papers/dall-e-2.pdf) |:---: |
 | CogView2 |[CogView: Mastering Text-to-Image Generation via Transformers](https://arxiv.org/pdf/2105.13290.pdf) |[github](https://github.com/THUDM/CogView2)|
 | CogVideo |[CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers](https://arxiv.org/pdf/2205.15868.pdf) |[github]() |
