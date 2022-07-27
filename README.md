@@ -46,3 +46,61 @@ Thanks to heejkoo, gwang-kim ,and DarrenPan  for their hard work！
 
 
 [Changan Chen](https://changan.io/)
+
+**Building and Evaluation of a Real Room Impulse Response Dataset**
+
+  _Szöke I, Skácel M, Mošner L, et al._
+
+  IEEE Journal of Selected Topics in Signal Processing, 2019. [[Paper]](https://arxiv.org/pdf/1811.06795) [Code] [Website]
+
+
+
+**StoRIR: Stochastic Room Impulse Response Generation For Audio Data Augmentation**
+
+  _Masztalski P, Matuszewski M, Piaskowski K, et al._
+
+  arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2008.07231) [[Code]](https://github.com/SRPOL-AUI/storir) [Website]
+
+
+**IR-GAN: Room Impulse Response Generator for Far-field Speech Recognition**
+
+  _Ratnarajah A, Tang Z, Manocha D._
+
+  arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2010.13219) [[Code]](https://github.com/GAMMA-UMD/IR-GAN) [[Website]](https://www.youtube.com/watch?v=_v5rDmDXvD0)
+
+  **gpuRIR: A Python Library for Room Impulse Response Simulation with GPU Acceleration**
+
+  _Diaz-Guerra D, Miguel A, Beltran J R.._
+
+  Multimedia Tools and Applications, 2021. [[Paper]](https://arxiv.org/pdf/1810.11359) [[Code]](https://github.com/DavidDiazGuerra/gpuRIR) [Website]
+
+  **TS-RIR: Translated synthetic room impulse responses for speech augmentation**
+
+  _Ratnarajah A, Tang Z, Manocha D._
+
+  IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), 2021. [[Paper]](https://arxiv.org/pdf/2103.16804) [[Code]](https://github.com/GAMMA-UMD/TS-RIR) [[Website]](https://www.youtube.com/watch?v=gghzIMT8FCw)
+  
+
+**Geometry-Aware Multi-Task Learning for Binaural Audio Generation from Video**
+
+  _Garg R, Gao R, Grauman K._
+
+  arXiv, 2021. [[Paper]](https://arxiv.org/pdf/2111.10882) [Code] [[Website]](https://www.youtube.com/watch?v=rTLMcH4QUKI)
+
+**MESH2IR: Neural Acoustic Impulse Response Generator for Complex 3D Scenes**
+
+  _Ratnarajah A, Tang Z, Aralikatti R C, et al._
+
+  arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2205.09248) [[Code]](https://github.com/anton-jeran/MESH2IR) [[Website]](https://anton-jeran.github.io/M2IR/)
+
+**Few-Shot Audio-Visual Learning of Environment Acoustics**
+
+  _Majumder S, Chen C, Al-Halah Z, et al._
+
+   arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.04006) [Code] [[Website]](https://vision.cs.utexas.edu/projects/fs_rir/)
+
+**FAST-RIR: Fast neural diffuse room impulse response generator**
+
+  _Ratnarajah A, Zhang S X, Yu M, et al._
+
+  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022. [[Paper]](https://arxiv.org/pdf/2110.04057) [[Code]](https://github.com/anton-jeran/FAST-RIR) [[Website]](https://anton-jeran.github.io/FRIR/)
