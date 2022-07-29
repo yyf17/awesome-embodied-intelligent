@@ -1,3 +1,8 @@
+* **Paper Title** <br>
+*Author(s)* <br>
+Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
+
+
 # [Text 2 Image](https://www.bilibili.com/video/BV17r4y1u77B?spm_id_from=333.999.0.0&vd_source=748e2ffada3badcc315a8de5269e2580)
 | Name  | pdf  |   github |
 | :--- |:--- |:---: |
@@ -11,7 +16,9 @@
 | CogVideo |[CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers](https://arxiv.org/pdf/2205.15868.pdf) |[github]() |
 | Imagen |[Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/pdf/2205.11487.pdf) |[github](https://github.com/lucidrains/imagen-pytorch) |
 
-
+* **Compositional Visual Generation with Composable Diffusion Models** <br>
+*Nan Liu, Shuang Li, Yilun Du, Antonio Torralba, Joshua B. Tenenbaum* <br>
+ECCV, 2022. [[Paper]](https://arxiv.org/pdf/2206.01714.pdf) [[Code]](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch) [[Website]](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/)
 
 
 # [dalle-mini](https://huggingface.co/spaces/dalle-mini/dalle-mini)
